@@ -18,7 +18,7 @@ export const Banner = () => {
               Sistema de Información Hidrológica
             </h1>
             <p className="text-white sm:text-sm">
-              Información hidrológica, consultas y descargas
+              Información Meteorologica hidrológica, consultas y descargas
             </p>
           </div>
         </section>
@@ -46,7 +46,7 @@ export const Banner = () => {
               Teléfono: (01) 234-5678
             </p>
             <p className="text-lg text-gray-700">
-              Horario de Atención: Lunes a Viernes, 9:00 AM - 5:00 PM
+              Horario de Atención: Lunes a Viernes, 6:00 AM - 5:00 PM
             </p>
           </div>
           

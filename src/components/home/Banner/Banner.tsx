@@ -40,7 +40,7 @@ export const Banner = () => {
               Aquí puedes agregar más información sobre el SENAMHI, como su dirección, horario de atención, servicios ofrecidos, etc.
             </p>
             <p className="text-lg text-gray-700">
-              Dirección: Calle Ejemplo 123, Ciudad, País
+              Dirección: av. Cornejo Portugal 1842, Iquitos, Peru
             </p>
             <p className="text-lg text-gray-700">
               Teléfono: (01) 234-5678

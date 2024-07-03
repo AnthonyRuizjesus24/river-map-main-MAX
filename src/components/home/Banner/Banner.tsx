@@ -37,7 +37,7 @@ export const Banner = () => {
               DIRECCIÓN DEL SENAMHI DZ8
             </h2>
             <p className="text-lg text-gray-700">
-              Aquí puedes agregar más información sobre el SENAMHI, como su dirección, horario de atención, servicios ofrecidos, etc.
+              Aquí puedes agregar más información sobre el SENAMHI, como su dirección, horario de atención, servicios ofrecidos, o.
             </p>
             <p className="text-lg text-gray-700">
               Dirección: av. Cornejo Portugal 1842, Iquitos, Peru

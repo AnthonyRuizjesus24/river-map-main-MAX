@@ -1,0 +1,24 @@
+.map-iframe {
+    width: 328px; /* Ancho completo del contenedor padre */
+    height: 328px; /* Altura ajustada según tus necesidades */
+    border: none; /* Eliminar el borde del iframe */
+    margin-left: 20px; /* Ajusta el valor según sea necesario */
+  
+  }
+  .map-container {
+    background-color: #ededed; /* Cambia este color según tus necesidades */
+    padding: 20px;
+    border-radius: 8px; /* Opcional: para bordes redondeados */
+    display: flex;
+    justify-content: space-between; /* Asegura que los elementos se distribuyan equitativamente */
+  }
+  .info-column {
+    width: 35%; /* Ajusta este valor según tus necesidades */
+    padding-left: 20px; /* Espacio entre el mapa y la columna de información */
+  }
+  
+  .section-header {
+    text-align: center;
+    color: #333; /* Cambia esto al color que desees */
+  }
+  
